@@ -9,11 +9,12 @@ Made a Text based game through the use of HTML and Javascript. It is about a per
 
 ### How to download
 1. Git clone 'https://github.com/shahak1995/js-storygame
-2. Run 'bundle' in the terminal to install the gems
-3. Run 'rspec'
+2. Run 'live-server' in the terminal
 
-(If its hosted on Github Pages then...)
-#### You can view the page [here]()
+### How to use
+1. Dialog box should come up once you run 'live-server' in the terminal
+2. You have to enter your name in the dialog box in order to play the game
+3. Go through each of the boxes by inputting into each of the dialog boxes with the decision you make
 
 ### Challenges (you can include images and code block here)
 1. Making sure all the prompts run appropriately
