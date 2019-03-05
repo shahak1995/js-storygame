@@ -1,14 +1,16 @@
 # js-storygame
 # Homework title
 ### Description
-Text based game about a haunted house and the user surviving with weapons and not trying to get killed
+Made a Text based game through the use of HTML and Javascript. It is about a person entering a haunted house and surviving their way through obstacles, ghost and demons thorugh use of tools and weapons. 
 
 ### Languages used
 * HTML
 * Javascript
 
 ### How to download
-
+1. Git clone 'https://github.com/shahak1995/js-storygame
+2. Run 'bundle' in the terminal to install the gems
+3. Run 'rspec'
 
 (If its hosted on Github Pages then...)
 #### You can view the page [here]()
